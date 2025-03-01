@@ -1,8 +1,28 @@
-# React + Vite
+React CRUD Application with Tailwind CSS & Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+This project is a CRUD (Create, Read, Update, Delete) application built using React, Tailwind CSS, and Firebase. It allows users to perform basic data operations efficiently with a clean and responsive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+
+Add new contacts/data
+
+View and list all items
+
+Edit existing items
+
+Delete items
+
+Firebase Firestore for data storage
+
+Responsive design with Tailwind CSS
+
+Technologies Used
+
+React.js
+
+Tailwind CSS
+
+Firebase (Firestore)
+
