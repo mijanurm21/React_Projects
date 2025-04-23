@@ -42,7 +42,7 @@ const Cart = () => {
             </div>
         </div>
        
-        <FiShoppingCart onClick={()=>setActive(true)} className={` fixed shadow-md bottom-10 right-13 rounded bg-white text-3xl font-semibold p-1 z-40 cursor-pointer ${totalqty > 0 && "animate-bounce delay-500 transition-all"}`}/>
+        <FiShoppingCart  onClick={()=>setActive(true)} className={` fixed shadow-md bottom-10 right-13 rounded bg-white text-3xl font-semibold p-1 z-40 cursor-pointer ${totalqty > 0 && "animate-bounce delay-500 transition-all"}`}/>
         
     </>
   )
